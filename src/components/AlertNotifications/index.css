@@ -1,0 +1,55 @@
+/* Write your CSS here */
+.text-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.description {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.heading1 {
+  color: #2dca73;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.heading2 {
+  color: #ff0b37;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.heading3 {
+  color: #ffb800;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.heading4 {
+  color: #0f81e0;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.icon1 {
+  color: #2dca73;
+}
+
+.icon2 {
+  color: #ff0b37;
+}
+
+.icon3 {
+  color: #ffb800;
+}
+
+.icon4 {
+  color: #0f81e0;
+}
+
+.text-container {
+  display: flex;
+}
